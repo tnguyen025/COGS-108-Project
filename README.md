@@ -1,9 +1,15 @@
 # COGS-108-Project
 “A Little Bird Told Me” - Fake News, Twitter, and Society
 TEAM NAME: Data Dawgs
+
+
 TEAM MEMBERS: Jason Nideffer, David Alexander, Tuan Nguyen, Cuong Lai, Zizhen Wang
+
+
 TEAM MEMBER GITHUB IDS: jasonnideffer, davidalexander3986, tnguyen025, cuongnt94,
 roam55
+
+
 DATA SCIENCE QUESTION(S) & HYPOTHESIS:
 We plan on addressing one or more of the following:
 1) Do fake or real news stories reach a broader audience?
@@ -29,11 +35,15 @@ to examine for ourselves the extent to which fake news impacts our modern societ
 approach to answering this question will use data science and modeling to analyze a dataset of
 over 1,000 real and fake news stories and their dissemination throughout the Twitter
 community.
+
+
 ETHICAL CONSIDERATIONS:
 Our dataset includes information that facilitates the identification of individuals that perpetuate
 real and fake news. This information includes twitter handles and social media connections.
 While these data are crucial to our study, sharing specifics pertaining to a single profile is
 unnecessary. This will be considered when we publish our findings.
+
+
 DATA:
 Data sets include real and fake news articles with the following information documented:
 - Headline, URL, Provider, Twitter ID’s of individuals who shared these stories
