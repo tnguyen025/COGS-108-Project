@@ -20,6 +20,8 @@ search trends, occurence of events, etc.)
 - Source
 - Data from profiles of twitter users that tweet it (ie. followers, following, comments,
 tweet text, etc.)
+
+
 BACKGROUND:
 Fake news is a scourge of modern society. Some have even likened it to a virulent strain,
 spreading deceit as it propagates through the innocent public. This bold claim has inspired us
